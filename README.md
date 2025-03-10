@@ -72,7 +72,8 @@ MagicDraw/
 - `Esc` - Đóng chương trình
 
 ## 📸 Hình ảnh minh họa
-![](1.jpg)
+![](pre.jpg)
+![](pre2.jpg)
 
 
 
